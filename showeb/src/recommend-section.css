@@ -1,0 +1,8 @@
+.recommend-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.recommend-section:not(:last-child) {
+  margin-bottom: 3rem;
+}
